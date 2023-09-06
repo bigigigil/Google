@@ -2,7 +2,7 @@
 
 ## **ÍNDICE**
 
-1. [Introducción](#1)
+1. [Introducción](https://github.com/bigigigil/Google/blob/main/README.md#1-introducci%C3%B3n)
 2. [¿Qué construí?](#2)
 3. [Objetivo](#3)
 4. [Link a Demo](#4)
