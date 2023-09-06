@@ -1,1 +1,33 @@
-# Google
+# Clonación de la interfaz de Google con HTML5 y CSS3
+
+## **ÍNDICE**
+
+1. [Introducción]()
+2. [¿Qué construí?]()
+3. [Objetivo]()
+4. [Link a Demo]()
+
+****
+
+## 1. Introducción
+
+HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos diariamente en el navegador. Incluso este sitio web en dónde ves este contenido está construido con HTML y CSS. En este proyecto con los cnonociemientos de HTML y CSS realicé la clonación de la interfaz de Google.
+
+## 2. ¿Qué construí?
+
+En este proyecto me enfoqué en construir la clonación de la interfaz de Google. Contiene las siguientes secciones:
+
+- **<ins>Header</ins>:** Sección que involucra la foto de perfil iconos y el menú con enlaces externos.
+- **<ins>Main</ins>:** Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
+- **<ins>Footer</ins>:** Sección que incluye enlaces externos al final de la página
+
+Las tecnologías son:
+<imagen src=""/>
+<imagen src=""/>
+
+## 3. Objetivo
+
+Aprender a utilizar as etiquetas estándar de HTML5 y CSS3.
+
+## 4. Link a Demo
+Aqui puedes ver mi proyecto terminado: [Clonación de Google](#)
