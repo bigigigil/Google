@@ -2,10 +2,10 @@
 
 ## **ÍNDICE**
 
-1. [Introducción]()
-2. [¿Qué construí?]()
-3. [Objetivo]()
-4. [Link a Demo]()
+1. [Introducción](#)
+2. [¿Qué construí?](#)
+3. [Objetivo](#)
+4. [Link a Demo](#)
 
 ****
 
@@ -22,8 +22,10 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 - **<ins>Footer</ins>:** Sección que incluye enlaces externos al final de la página
 
 Las tecnologías son:
-<imagen src=""/>
-<imagen src=""/>
+
+<imagen src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<imagen src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## 3. Objetivo
 
