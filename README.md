@@ -4,7 +4,7 @@
 
 1. [Introducción](https://github.com/bigigigil/Google/blob/main/README.md#1-introducci%C3%B3n)
 2. [¿Qué construí?](https://github.com/bigigigil/Google/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-3. [Objetivo](#3)
+3. [Objetivo](https://github.com/bigigigil/Google/blob/main/README.md#3)
 4. [Link a Demo](#4)
 
 ****
