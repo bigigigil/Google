@@ -21,11 +21,9 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 - **<ins>Main</ins>:** Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
 - **<ins>Footer</ins>:** Sección que incluye enlaces externos al final de la página
 
-Las tecnologías son:
+Tecnologías utilizadas:
 
-<imagen src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<imagen src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<image src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <image src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## 3. Objetivo
 
